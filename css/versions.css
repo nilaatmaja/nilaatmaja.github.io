@@ -1,0 +1,237 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. DEFAULT VERSION (Check style.css and colors.css)
+    2. HOSTING VERSION
+    3. SEO VERSION
+    4. WATCH VERSION
+    5. APP VERSION
+    6. CLINIC VERSION
+    7. REAL ESTATE VERSION
+    8. POLITICS VERSION
+    9. BARBER VERSION
+    10. BUILDING VERSION
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+    1. POLITICS VERSION
+-------------------------------------------------------------------*/
+
+body.portfolio-body .participate-wrap small,
+body.portfolio-body .message-box h4,
+body.portfolio-body .customwidget li i,
+body.portfolio-body .navbar-nav span {
+    color: #cd1713 !important;
+}
+
+body.portfolio-body .lead strong,
+body.portfolio-body .icon-wrapper:hover a,
+body.portfolio-body a:hover,
+body.portfolio-body a:focus {
+    color: #234666
+}
+
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.portfolio-body .icon_wrap:hover,
+body.portfolio-body .nav-pills > li.active > a,
+body.portfolio-body .nav-pills > li.active > a:focus,
+body.portfolio-body .nav-pills > li.active > a:hover,
+body.portfolio-body .icon-wrapper:hover i,
+body.portfolio-body .grd1 {
+    color: #ffffff;
+    background: #f44336;    
+}
+
+body.portfolio-body .icon_wrap,
+body.portfolio-body .dmtop:hover,
+body.portfolio-body .cac:hover,
+body.portfolio-body .features-right li:hover i,
+body.portfolio-body .features-left li:hover i,
+body.portfolio-body .nav-pills > li:hover > a,
+body.portfolio-body .nav-pills > li:focus > a,
+body.portfolio-body .nav-pills > li.active > a,
+body.portfolio-body .nav-pills > li.active > a:focus,
+body.portfolio-body .nav-pills > li.active > a:hover,
+body.portfolio-body .divider-bar,
+body.portfolio-body .owl-next:hover i,
+body.portfolio-body .owl-prev:hover i,
+body.portfolio-body .icon-wrapper:hover i:hover,
+body.portfolio-body .grd1:hover,
+body.portfolio-body .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;
+    background: #076799;
+}
+
+body.portfolio-body .effect-1:after {
+    box-shadow: 0 0 0 2px #076799;
+    border-radius: 0 !important;
+}
+
+body.portfolio-body .app_iphone_01 {
+    width: 700px;
+    position: absolute;
+    left: 10%;
+    z-index: 2;
+    bottom: -12%;
+}
+
+body.portfolio-body .first-section {
+    padding: 15em 0 11em;
+}
+
+body.portfolio-body .first-section h2 {
+    padding-top: 30px;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+body.portfolio-body .first-section .btn {
+    border: 0 !important;
+}
+
+body.portfolio-body .first-section i {
+    vertical-align: middle;
+}
+
+body.portfolio-body .header_style_01 {
+    top: 43px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+body.portfolio-body .header_style_01 .navbar-default .navbar-nav > li > a {
+    text-transform: uppercase;
+}
+
+body.portfolio-body .topbar {
+    display: block;
+    padding: 8px 20px;
+    position: relative;
+    background-color: #cd1713;
+    color: #ffffff;
+}
+
+body.portfolio-body .topbar p {
+    padding: 0;
+    margin: 0;
+}
+
+body.portfolio-body .issuse-wrap2 {
+    display: block;
+    position: relative;
+}
+
+body.portfolio-body .issuse-wrap {
+    padding: 20px 0;
+    display: block;
+    position: relative;
+    border-bottom: 1px dashed #f44336;
+}
+
+body.portfolio-body .issuse-wrap p,
+body.portfolio-body .issuse-wrap p {
+    margin-bottom: 0;
+}
+
+body.portfolio-body .issuse-wrap img {
+    max-width: 100px;
+    margin: 0 30px 0 0;
+}
+
+body.portfolio-body .lastchild {
+    border: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+body.portfolio-body .issuse-wrap2 h4 {
+    font-size: 24px;
+    font-weight: 600;
+    padding: 20px 0 20px;
+    text-transform: capitalize;
+}
+
+body.portfolio-body .issuse-wrap h4 {
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-transform: capitalize;
+}
+
+body.portfolio-body .section-title {}
+
+body.portfolio-body .message-box h2,
+body.portfolio-body .section-title h3 {
+    font-weight: bold;
+}
+
+body.portfolio-body .participate-wrap {
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+body.portfolio-body .participate-wrap small {
+    font-size: 18px;
+    display: block;
+    padding-bottom: 20px;
+    position: relative;
+    font-weight: bold;
+}
+
+body.portfolio-body .participate-wrap h4 {
+    padding-bottom: 10px;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+body.portfolio-body .fullmagnifier {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: 0;
+}
+
+body.portfolio-body #block h1 {
+    position: absolute;
+    color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 50%;
+    text-align: center;
+    margin: -20px auto;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+body.portfolio-body .contact_form {
+    background-color: #010101;
+    border-color: #151515;
+}
+
+body.portfolio-body .contact_form .form-control {
+    background-color: #1a1a1a;
+    border: 1px solid #1a1a1a;
+}
+
+body.portfolio-body .btn {
+    border: 0 !important;
+    border-radius: 3px;
+}
+
+body.portfolio-body .copyrights {
+    background-color: #010101;
+}
+
