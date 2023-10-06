@@ -2475,6 +2475,12 @@ select.mobile-device {
     min-height: 150px;
 }
 
+.works-info p {
+    color: #333;
+    margin: 0;
+    font-weight: 700;
+}
+
 .works-info h5 {
     font-size: 22px;
     font-weight: 600;
@@ -2500,7 +2506,7 @@ select.mobile-device {
 -------------------------------------------------------------------*/
 
 .primary-color {
-    color: var(--primary-color);
+    color: var(--primary-color) !important;
 }
 
 .logo-text {
@@ -2544,4 +2550,28 @@ select.mobile-device {
     font-size: 22px;
     font-weight: 600;
     color: var(--primary-color);
+}
+
+.contact-action .btn {
+ height: 60px;
+ padding: .375rem 1.75rem;
+ border-radius: 0;
+}
+
+.contact-action .btn-primary {
+ background: var(--primary-color);
+}
+
+.contact-action .btn-primary:not(:disabled):not(.disabled):active {
+    background-color: var(--primary-color);
+}
+
+.contact-action .btn-primary:focus {
+    box-shadow: none;
+}
+
+@media (min-width: 992px) {
+    .modal-lg {
+        max-width: 1000px;
+    }
 }
